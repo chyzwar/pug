@@ -1,0 +1,27 @@
+{
+  "name": "@hyper/pug",
+  "version": "0.0.1",
+  "description": "Pug renderer for @hyper",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chyzwar/pug.git"
+  },
+  "keywords": [
+    "pug"
+  ],
+  "author": "chyzwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chyzwar/pug/issues"
+  },
+  "homepage": "https://github.com/chyzwar/pug#readme",
+  "dependencies": {
+    "@hyper/http": "https://github.com/chyzwar/http.git",
+    "@utility/config": "https://github.com/chyzwar/config.git",
+    "@pug/pug": ""
+  },
+}
