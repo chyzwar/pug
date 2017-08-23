@@ -20,8 +20,13 @@
   },
   "homepage": "https://github.com/chyzwar/pug#readme",
   "dependencies": {
-    "@hyper/http": "https://github.com/chyzwar/http.git",
-    "@utility/config": "https://github.com/chyzwar/config.git",
-    "@pug/pug": ""
+    "@hyper/http": "chyzwar/http",
+    "@utility/config": "chyzwar/config",
+    "pug": ""
   },
+  "devDependencies": {
+    "@utility/babel-preset": "chyzwar/babel-preset",
+    "@utility/eslint-config": "chyzwar/eslint-config",
+    "@utility/publisher": "chyzwar/publisher"
+  }
 }
