@@ -1,10 +1,10 @@
 {
   "name": "@hyper/pug",
   "version": "0.0.1",
-  "description": "Pug renderer for @hyper",
-  "main": "./lib",
+  "description": "Pug renderer for hyper",
+  "main": "./PugRenderer.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -25,8 +25,7 @@
     "pug": ""
   },
   "devDependencies": {
-    "@utility/babel-preset": "chyzwar/babel-preset",
     "@utility/eslint-config": "chyzwar/eslint-config",
-    "@utility/publisher": "chyzwar/publisher"
+    "@utility/publish": "chyzwar/publish"
   }
 }

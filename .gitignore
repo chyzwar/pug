@@ -7,8 +7,9 @@ coverage
 # Node Files #
 node_modules
 
-# Build Folder #
-build
+# Temp Folder #
+.temp
 
 # Editors #
 .idea/
+.vscode
