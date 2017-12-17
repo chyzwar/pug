@@ -1,15 +1,9 @@
-# Logs
-*.log
-
-# Coverage #
-coverage
-
-# Node Files #
+# Node Modules #
 node_modules
 
-# Temp Folder #
-.temp
+# Logs #
+*.log
 
-# Editors #
+# Text Editors #
 .idea/
 .vscode
